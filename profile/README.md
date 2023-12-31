@@ -9,13 +9,23 @@ Games using Strata Source include [Momentum Mod](https://momentum-mod.org), [Por
 
 ## Quick Links
 
-* [Strata Documentation](https://wiki.stratasource.org)
-* [Momentum Mod Documentation](https://docs.momentum-mod.org)
-* [Momentum Mod GitHub Org](https://github.com/momentum-mod)
-* [Strata Source Engine Issue Tracker](https://github.com/StrataSource/Engine)
-* [Portal 2: Community Edition Issue Tracker](https://github.com/StrataSource/Portal-2-Community-Edition)
-* [Momentum Mod Issue Tracker](https://github.com/momentum-mod/game)
-* [Strata Branding Tool](https://branding.stratasource.org/)
+### [Strata Source](https://stratasource.org)
+
+* [Issue Tracker](https://github.com/StrataSource/Engine)
+* [Documentation](https://wiki.stratasource.org)
+* [Branding Tool](https://branding.stratasource.org/)
+
+### [Momentum Mod](https://momentum-mod.org)
+
+* [Issue Tracker](https://github.com/momentum-mod/game)
+* [Documentation](https://docs.momentum-mod.org)
+* [Steam](https://store.steampowered.com/app/669270/Momentum_Mod)
+
+### [Portal 2: Community Edition](https://p2ce.org)
+
+* [Issue Tracker](https://github.com/StrataSource/Portal-2-Community-Edition)
+* [Documentation](https://wiki.stratasource.org/p2ce)
+* [Steam](https://steamcommunity.com/app/440000)
 
 ## Contribution Guidelines
 
