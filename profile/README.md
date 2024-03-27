@@ -1,5 +1,8 @@
 <p align="center">
-  <img width=512 src="https://branding.stratasource.org/i/strata/logo/ondark/color.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://branding.stratasource.org/i/strata/logo/ondark/color.svg">
+    <img width=512 src="https://branding.stratasource.org/i/strata/logo/onlight/color.svg">
+  </picture>
 </p>
 
 This is the GitHub organization for [Strata Source](https://stratasource.org), an advanced, community-developed branch of the Source Engine. Here you can find our open-source components, such as our issue trackers, documentation, wiki software and some of our tooling.
